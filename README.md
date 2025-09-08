@@ -13,7 +13,6 @@
 <p align="left">
 ✨ Criando bugs desde 2021<br>
 🎓 Formado em Análise e Desenvolvimento de Sistemas<br>
-🔐 Cursando pós-graduação em Segurança da Informação<br>
 </p>
 
 ###
