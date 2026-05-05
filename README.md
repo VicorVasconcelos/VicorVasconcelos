@@ -12,7 +12,7 @@
 
 <p align="left">
 ✨ Criando soluções inovadoras desde 2021<br>
-🎓 Graduando em Análise e Desenvolvimento de Sistemas<br>
+🎓 Graduado em Análise e Desenvolvimento de Sistemas<br>
 🔧 Especialista em automação e desenvolvimento web<br>
 🌟 Apaixonado por tecnologia e resolução de problemas<br>
 </p>
